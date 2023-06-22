@@ -35,4 +35,4 @@ Now you should have a nicely organized list of the Section, Module, Slide Number
 
 2. I am getting errors about "UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position ..."
    
-   That is likely an odd character. Open the json file in your favorite text editor and reaplce or escape the character as needed.
+   That is likely an odd character. Open the json file in your favorite text editor and replace or escape the character as needed.
