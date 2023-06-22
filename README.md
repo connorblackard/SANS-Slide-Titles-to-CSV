@@ -30,6 +30,9 @@ Now you should have a nicely organized list of the Section, Module, Slide Number
 # FAQ
 
 1. Can I use firefox?
+   
    Probably, just lookup the key for developer tools and it should be similar.
+
 2. I am getting errors about "UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position ..."
+   
    That is likely an odd character. Open the json file in your favorite text editor and reaplce or escape the character as needed.
