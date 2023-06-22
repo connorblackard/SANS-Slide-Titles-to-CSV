@@ -1,4 +1,4 @@
-# SANS-Slide-Extractor
+# SANS Slide Names to CSV
 
 # Project Description
 This script is a tool used to extract the SANS On Demand slide titles and durations and output to a CSV file.
