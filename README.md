@@ -15,7 +15,7 @@ I made this script because I am in the SANS MSISE program. Working full time and
 6. Look through all the entries until you find one that has the key value pair `OperationName: CourseQuery`
 
    ![Graphql Example](https://raw.githubusercontent.com/concon2015/SANS-Slide-Titles-to-CSV/main/graphql_screenshot.png)
-7. Once you find that entry, select the "Payload" tab
+7. Once you find that entry, select the "Response" tab
 8. Copy the entire contents of this field (note: this will be a lot of content and you will have to scroll down quite a ways)
 9. Create a text file on your computer called "course.json" in the same directory as the script
 10. Run the script with Python
