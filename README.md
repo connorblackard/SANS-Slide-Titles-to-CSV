@@ -26,7 +26,7 @@ I made this script because I am in the SANS MSISE program. Working full time and
 15. Make sure the delimeter is set to "|" and Data Type Detection is set to "Do not detect data types"
 16. Select Load
 
-    ![Excel Example](https://raw.githubusercontent.com/concon2015/SANS-Slide-Titles-to-CSV/main/excel_screenshot.png)
+    ![Excel Example]([https://raw.githubusercontent.com/concon2015/SANS-Slide-Titles-to-CSV/main/excel_screenshot.png](https://raw.githubusercontent.com/concon2015/SANS-Slide-Titles-to-CSV/main/excel_example.png))
 
 Now you should have a nicely organized list of the Section, Module, Slide Number, Slide Name, and Duration to use for planning purposes. You'll likely need to adjust the column names and data types to make this work for your purposes.
 
