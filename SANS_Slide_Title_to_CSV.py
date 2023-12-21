@@ -1,6 +1,6 @@
 import json
 
-with open('course.json') as course_json:
+with open('course.json', encoding='utf-8') as course_json:
   parsed_json = json.load(course_json)
 
 output = open('course_output.csv', 'w')
